@@ -1,4 +1,4 @@
-# My VSCode Extension
+# QHOP VSCode Extension
 
 This is an extension for Visual Studio Code that allows you to navigate and delete parts of words based on uppercase letters.
 It's usefull after copy-paste when you need to edit camel-case names.
