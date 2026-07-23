@@ -47,9 +47,3 @@ It's usefull after copy-paste when you need to edit camel-case names.
 - To delete part of the word after the uppercase letter, place the cursor in the word and press `Alt + Del`.
 - To move to the next uppercase letter, place the cursor in the word and press `Alt + Right`.
 - To move to the previous uppercase letter, place the cursor in the word and press `Alt + Left`.
-
-## Release Notes
-
-### 1.0.0
-
-- Initial release of the VSCode Extension.
